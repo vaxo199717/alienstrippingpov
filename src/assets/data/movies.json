@@ -1,0 +1,465 @@
+[
+    {
+        "title": "Avengers: Infinity War",
+        "about": "As Thanos intends to collect all six Infinity Stones and use them to inflict his twisted will on all of reality, Iron Man, Thor, the Hulk and the rest of the Avengers must unite to defeat him.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "director": "Anthony Russo, Joe Russo",
+        "country": [
+            "United States"
+        ],
+        "duration": 150,
+        "releaseDate": 2018,
+        "imdb": "9.0",
+        "image": "assets/images/image20.jpg",
+        "movie": "https://s4108-24.imovies.cc/video/imovie_hash_code/15/2021031905081661_high_ENG.mp4?md5=JfOMmiwCVprMyR0N-YkOeA&expires=1638220184&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Red Notice",
+        "about": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+        "genre": [
+            "action",
+            "comedy",
+            "crime"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "Ryan Reynolds",
+            "Gal Gadot"
+        ],
+        "director": "Rawson Marshall Thurber",
+        "country": [
+            "united states"
+        ],
+        "duration": 133,
+        "releaseDate": 2021,
+        "imdb": "7.2",
+        "image": "assets/images/image1.jpg",
+        "movie": "https://api.adjaranet.com/api/v1/movies/878540538/files/1586320?source=adjaranet"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "about": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "genre": ["Action", "Adventure"],
+        "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+        "director": "Joe Russo, Anthony Russo",
+        "country": ["United States"],
+        "duration":181,
+        "releaseDate":2019,
+        "imdb": "9.1",
+        "image": "assets/images/image18.jpg",
+        "movie": "https://s4108-24.imovies.cc/video/imovie_hash_code/15/2021031905081661_high_ENG.mp4?md5=JfOMmiwCVprMyR0N-YkOeA&expires=1638220184&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Finch",
+        "about": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
+        "genre": [
+            "drama",
+            "sci-fi"
+        ],
+        "cast": [
+            "Tom Hanks",
+            "Caleb Landry Jones",
+            "Lora Martinez-Cunningham"
+        ],
+        "director": "Miguel Sapochnik",
+        "country": [
+            "united states",
+            "united kingdom"
+        ],
+        "duration": 132,
+        "releaseDate": 2021,
+        "imdb": "7.3",
+        "image": "assets/images/image2.jpg",
+        "movie": "https://api.adjaranet.com/api/v1/movies/878543877/files/1588939?source=adjaranet"
+    },
+    {
+        "title": "Venom: Let There Be Carnage",
+        "about": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Tom Hardy",
+            "Woody Harrelson",
+            "Michelle Williams"
+        ],
+        "director": "Andy Serkis",
+        "country": [
+            "United States",
+            "United Kingdom",
+            "Canada"
+        ],
+        "duration": 97,
+        "releaseDate": 2021,
+        "imdb": "6.5",
+        "image": "assets/images/image3.jpg",
+        "movie": "https://api.adjaranet.com/api/v1/movies/878364301/files/1219044?source=adjaranet"
+    },
+    {
+        "title": "Jungle Cruise",
+        "about": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "Emily Blunt",
+            "Edgar Ramírez"
+        ],
+        "director": "Jaume Collet-Serra",
+        "country": [
+            "United States"
+        ],
+        "duration": 127,
+        "releaseDate": 2021,
+        "imdb": "6.6",
+        "image": "assets/images/image4.jpg",
+        "movie": "https://api.adjaranet.com/api/v1/movies/878413005/files/1574982?source=adjaranet"
+    },
+    {
+        "title": "Dune",
+        "about": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.::Anonymous",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            "Timothée Chalamet",
+            "Rebecca Ferguson",
+            "Oscar Isaac"
+        ],
+        "director": "Denis Villeneuve",
+        "country": [
+            "United States",
+            "Canada"
+        ],
+        "duration": 155,
+        "releaseDate": 2021,
+        "imdb": "8.6",
+        "image": "assets/images/image5.jpg",
+        "movie": "https://api.adjaranet.com/api/v1/movies/2702/files/1095270?source=adjaranet"
+    },
+    {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "about": "Shang-Chi, the master of unarmed weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Simu Liu",
+            "Tony Chiu-Wai Leung",
+            "Awkwafina"
+        ],
+        "director": "Destin Daniel Cretton",
+        "country": [
+            "United States",
+            "Australia"
+        ],
+        "duration": 132,
+        "releaseDate": 2021,
+        "imdb": "8.1",
+        "image": "assets/images/image6.jpg",
+        "movie": "https://api.adjaranet.com/api/v1/movies/878521814/files/1598128?source=adjaranet"
+    },
+    {
+        "title": "Free Guy",
+        "about": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+        "genre": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Jodie Comer",
+            "Dwayne Johnson",
+            "Ryan Reynolds"
+        ],
+        "director": "Shawn Levy",
+        "country": [
+            "United States",
+            "Canada"
+        ],
+        "duration": 115,
+        "releaseDate": 2021,
+        "imdb": "7.7",
+        "image": "assets/images/image7.jpg",
+        "movie": "https://s4109-04.imovies.cc/video/imovie_hash_code/11/2021102306404565_high_ENG.mp4?md5=li-Z0Kjlr3_pedSgzBpqSQ&expires=1638218131&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Injustice",
+        "about": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "Gillian Jacobs",
+            "Laura Bailey",
+            "Anson Mount"
+        ],
+        "director": "Matt Peters",
+        "country": [
+            "United States"
+        ],
+        "duration": 78,
+        "releaseDate": 2021,
+        "imdb": "",
+        "image": "assets/images/image8.jpg",
+        "movie": "https://s4115-18.imovies.cc/video/imovie_hash_code/8/2021100919182193_high_ENG.mp4?md5=T_FfM44ClwE8VjHW49w4Tg&expires=1638218512&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Snake Eyes",
+        "about": "A G.I. Joe spin-off centered around the character of Snake Eyes.::Rogerdemarco30",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Henry Golding",
+            "Andrew Koji",
+            "Haruka Abe"
+        ],
+        "director": "Robert Schwentke",
+        "country": [
+            "Canada",
+            "United States"
+        ],
+        "duration": 121,
+        "releaseDate": 2021,
+        "imdb": "5.7",
+        "image": "assets/images/image9.jpg",
+        "movie": "https://s4116-12.imovies.cc/video/imovie_hash_code/14/2021101006451960_high_ENG.mp4?md5=MrlWBhMiHcby19WkLvrNyA&expires=1638218912&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "F9: The Fast Saga",
+        "about": "Cipher enlists the help of Jakob, Dom's younger brother to take revenge on Dom and his team.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "cast": [
+            "Vin Diesel",
+            "Michelle Rodriguez",
+            "Jordana Brewster"
+        ],
+        "director": "Justin Lin",
+        "country": [
+            "United States",
+            "Thailand",
+            "Canada"
+        ],
+        "duration": 143,
+        "releaseDate": 2021,
+        "imdb": "5.5",
+        "image": "assets/images/image10.jpg",
+        "movie": "https://s4107-12.imovies.cc/video/imovie_hash_code/21/2021111713301390_high_ENG.mp4?md5=1rUj2di_IModhtUZGzRv2A&expires=1638219069&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Black Widow",
+        "about": "A film about Natasha Romanoff in her quests between the films Civil War and Infinity War.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Scarlett Johansson",
+            "Florence Pugh",
+            "Rachel Weisz"
+        ],
+        "director": "Cate Shortland",
+        "country": [
+            "United States"
+        ],
+        "duration": 133,
+        "releaseDate": 2021,
+        "imdb": "7.1",
+        "image": "assets/images/image11.jpg",
+        "movie": "https://s4106-16.imovies.cc/video/imovie_hash_code/8/2021092608424655_high_ENG.mp4?md5=S5O8qwe8f6xdoKNukIRLug&expires=1638219211&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Space Jam: A New Legacy",
+        "about": "A rogue artificial intelligence kidnaps the son of famed basketball player LeBron James, who then has to work with Bugs Bunny to win a basketball game.",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "LeBron James",
+            "Don Cheadle",
+            "Cedric Joe"
+        ],
+        "director": "Malcolm D. Lee",
+        "country": [
+            "United States"
+        ],
+        "duration": 115,
+        "releaseDate": 2021,
+        "imdb": "4.1",
+        "image": "assets/images/image12.jpg",
+        "movie": "https://s4114-21.imovies.cc/video/imovie_hash_code/4/2015011414393475_high_eng.mp4?md5=ZWaTh1Md55sjyHgJv-jLVw&expires=1638219370&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "The Forever Purge",
+        "about": "All the rules are broken as a sect of lawless marauders decides that the annual Purge does not stop at daybreak and instead should never end.",
+        "genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Ana de la Reguera",
+            "Josh Lucas",
+            "Cassidy Freeman"
+        ],
+        "director": "Everardo Gout",
+        "country": [
+            "United States",
+            "Mexico",
+            "France"
+        ],
+        "duration": 103,
+        "releaseDate": 2021,
+        "imdb": "6.0",
+        "image": "assets/images/image13.jpg",
+        "movie": "https://s4501-l22.imovies.cc/video/imovie_hash_code/9/2021102517540048_high_ENG.mp4?md5=qbisVCp_oh98zE5qtwRhyw&expires=1638219561&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Cruella",
+        "about": "A live-action prequel feature film following a young Cruella de Vil.",
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "cast": [
+            "Emma Stone",
+            "Emma Thompson",
+            "Joel Fry"
+        ],
+        "director": "Craig Gillespie",
+        "country": [
+            "United States",
+            "United Kingdom"
+        ],
+        "duration": 134,
+        "releaseDate": 2021,
+        "imdb": "7.1",
+        "image": "assets/images/image14.jpg",
+        "movie": "https://s4108-03.imovies.cc/video/imovie_hash_code/10/2021083115383710_high_ENG.mp4?md5=uG8MkhreoeWYkAnLYoNv_Q&expires=1638219733&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Army of the Dead",
+        "about": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+        "genre": [
+            "Action",
+            "Crime",
+            "Horror"
+        ],
+        "cast": [
+            "Dave Bautista",
+            "Ella Purnell",
+            "Omari Hardwick"
+        ],
+        "director": "Zack Snyder",
+        "country": [
+            "United States"
+        ],
+        "duration": 148,
+        "releaseDate": 2021,
+        "imdb": "7.7",
+        "image": "assets/images/image15.jpg",
+        "movie": "https://s4501-l06.imovies.cc/video/imovie_hash_code/3/2021052109133619_high_ENG.mp4?md5=dS-lo4mTDQC7hkpMAbkHZw&expires=1638219861&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Godzilla vs. Kong",
+        "about": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.::Warner Bros.",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "cast": [
+            "Alexander Skarsgård",
+            "Millie Bobby Brown",
+            "Rebecca Hall"
+        ],
+        "director": "Adam Wingard",
+        "country": [
+            "United States",
+            "Australia"
+        ],
+        "duration": 113,
+        "releaseDate": 2021,
+        "imdb": "7.5",
+        "image": "assets/images/image16.jpg",
+        "movie": "https://s4116-05.imovies.cc/video/imovie_hash_code/5/2021060708234864_high_ENG.mp4?md5=Hr6tevRQNg1qEzOB8XDGiA&expires=1638220038&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Zack Snyder's Justice League",
+        "about": "Zack Snyder's definitive director's cut of Justice League. Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Henry Cavill",
+            "Amy Adams"
+        ],
+        "director": "Zack Snyder",
+        "country": [
+            "United States"
+        ],
+        "duration": 242,
+        "releaseDate": 2021,
+        "imdb": "8.6",
+        "image": "assets/images/image17.jpg",
+        "movie": "https://s4108-24.imovies.cc/video/imovie_hash_code/15/2021031905081661_high_ENG.mp4?md5=JfOMmiwCVprMyR0N-YkOeA&expires=1638220184&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    },
+    {
+        "title": "Tom and Jerry",
+        "about": "Adaptation of the classic Hanna-Barbera property, which reveals how Tom and Jerry first meet and form their rivalry.::Anonymous",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Chloë Grace Moretz",
+            "Michael Peña",
+            "Tom"
+        ],
+        "director": "Tim Story",
+        "country": [
+            "United Kingdom",
+            "France",
+            "Germany"
+        ],
+        "duration": 101,
+        "releaseDate": 2021,
+        "imdb": "6.5",
+        "image": "assets/images/image19.jpg",
+        "movie": "https://s4108-24.imovies.cc/video/imovie_hash_code/15/2021031905081661_high_ENG.mp4?md5=JfOMmiwCVprMyR0N-YkOeA&expires=1638220184&data=YTozOntzOjc6InVzZXJfaXAiO3M6MTI6IjkyLjU0LjIzMC44MCI7czoxMDoidXNlcl9hZ2VudCI7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiI7czo3OiJyZWZlcmVyIjtzOjI2OiJodHRwczovL3d3dy5hZGphcmFuZXQuY29tLyI7fQ=="
+    }
+]

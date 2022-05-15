@@ -1,0 +1,94 @@
+<div *ngIf="isLoading"  class="loader">
+    <div class="lds-hourglass"></div>
+</div>
+<div *ngIf="isLoading === false" class="content-container">
+    <app-slider class="slider"></app-slider>
+    <div class="new-movies-container">
+        <h2 class="new-added-title">Recently Added</h2>
+        <div class="new-movies">
+            <div class="image-container">
+                <img src="assets/image1.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #25</span>
+                        <br>
+                        <span>0.005 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image2.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #24</span>
+                        <br>
+                        <span>0.005 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image3.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #15</span>
+                        <br>
+                        <span>0.005 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image4.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #3</span>
+                        <br>
+                        <span>0.005 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image5.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #1</span>
+                        <br>
+                        <span>0.005 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image6.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #47</span>
+                        <br>
+                        <span>0.007 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image6.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #47</span>
+                        <br>
+                        <span>0.007 ETH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="assets/image6.jpg" alt="" class="">
+                <div class="info">
+                    <div>
+                        <span>ATPOV #47</span>
+                        <br>
+                        <span>0.007 ETH</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div *ngIf="isLoading === false">
+    <app-movies></app-movies>
+</div>

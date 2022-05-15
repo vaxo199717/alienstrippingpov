@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Chakra Petch', sans-serif;
+    padding:10px;
+}
+.logo-container{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    cursor:pointer;
+}
+.search-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.search-input{
+    color: white;
+    border:none;
+    background-color: #0e0e0e;
+    width: 300px;
+    border-radius: 20px 0 0 20px;
+    padding: 15px;
+    outline:none;
+}
+.search-btn{
+    font-size: 17px;
+    cursor:pointer;
+    right: 329px;
+    display: flex;
+    border-radius: 0 20px 20px 0;
+    padding:12px;
+    background-color:#ff0000;
+}
+.search-btn:hover {
+    transition: 500ms all;
+    background-color: #da3a3a;
+}
+.user-container{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+.user-content{
+    width: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor:pointer;
+}
+.user-container:hover .user-icon >.icon {
+    transform: rotateY(360deg);
+    transition: 500ms all;
+}
+.sign-text{
+    font-size: 17px;
+}
+
+.user-icon > i{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+
+}

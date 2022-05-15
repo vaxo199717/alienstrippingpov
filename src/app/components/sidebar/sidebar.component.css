@@ -1,0 +1,49 @@
+*{
+    font-family: 'Chakra Petch', sans-serif;
+}
+.sidebar-container{
+    background-color: #000000;
+    width: 80px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+.empty-space{
+    height: 66px;
+    background-color: #000000;
+}
+.menu-btns{
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.nav-btn{
+    color: #adb5bd;
+    padding: 20px 5px;
+    cursor: pointer;
+    height: 15%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.nav-btn:hover{
+    transition: 400ms all;
+    color: rgb(0, 0, 0);
+    background-color: #ff0000;
+}
+.icon-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.icon, .fa, .bi{
+    font-size: 22px;
+}
+
+.active-btn{
+    color: rgb(0, 0, 0);
+    background-color: #ff0000;
+}
